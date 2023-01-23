@@ -1,0 +1,10 @@
+h2 {
+    font-size: large;
+    text-decoration:underline;
+    font-style: inherit;
+}
+p{
+    font-stretch: expanded;
+    font-size: larger;
+    font-family: fantasy;
+}
